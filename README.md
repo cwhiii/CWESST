@@ -11,3 +11,5 @@ Track & record entries for:
 - Editors
 - Stories of all sizes
 - Individual submissions of stories to publishers, agents, and editors.
+
+Runs entirely in browser, using JavaScript, PHP, and other basic web technologies.
