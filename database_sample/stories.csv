@@ -1,0 +1,13 @@
+StoryID,Title,Genre,Type,WordCount,Synopsis,DateCompleted,CoAuthors,Series,Notes,DateRecordModified
+ST001,"The Last Ember",Fantasy,Short Story,5000,"A tale of a lone warrior's quest to reignite the world's last ember",2024-01-05,"Jane Doe",None,"First draft complete",2024-01-05
+ST002,"Echoes of Silence",Mystery,Novella,15000,"The mysterious disappearance in a quiet town, solved by a deaf detective",2024-01-10,"",None,"Needs second edit",2024-01-10
+ST003,"The Void Between Stars",Sci-Fi,Novel,80000,"Astronauts encounter an unknown entity in deep space",2024-01-15,"John Smith, Alice Brown","The Cosmic Void Series","Draft needs major revisions",2024-01-15
+ST004,"Dance of Shadows",Horror,Short Story,6000,"A cursed dance performance brings forth malevolent spirits",2024-01-20,"",None,"Ready for submission",2024-01-20
+ST005,"A Whisper in Time",Historical Fiction,Novel,90000,"A love story set during the French Revolution",2024-01-25,"",None,"Historical accuracy to be checked",2024-01-25
+ST006,"The Art of War",Thriller,Novella,20000,"A retired general must stop a coup before it starts",2024-02-01,"",None,"Military consultant review pending",2024-02-01
+ST007,"Flight of the Phoenix",Fantasy,Short Story,4000,"A phoenix rises to save a village from an eternal night",2024-02-05,"",None,"Mythology research needed",2024-02-05
+ST008,"Code of Silence",Crime,Drama,30000,"An undercover cop navigates the moral grey areas of his mission",2024-02-10,"",None,"Cultural sensitivity check",2024-02-10
+ST009,"The Last Harvest",Sci-Fi,Novel,75000,"A farmer on Mars discovers an alien plant with mysterious powers",2024-02-15,"Emily White","The Martian Chronicles","Botanical consultation",2024-02-15
+ST010,"Whispers in the Dark",Horror,Short Story,7000,"A night watchman hears voices from the shadows",2024-02-20,"",None,"Atmospheric writing to be enhanced",2024-02-20
+ST011,"Beneath the Waves",Adventure,Novella,18000,"An expedition to find a lost city under the sea",2024-02-25,"",None,"Marine biology accuracy",2024-02-25
+ST012,"The Firekeeper's Daughter",Contemporary,Novel,100000,"A young woman navigates her Ojibwe heritage and modern challenges",2024-03-01,"",None,"Cultural representation review",2024-03-01

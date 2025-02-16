@@ -1,0 +1,13 @@
+AgentID,AgentName,Address,Email,XAccount,Phone,Website,Notes,InterestedInStoryID,DateRecordModified
+AG001,"Laura Smith","101 Agent Lane, Lit City, LC","laura@literaryagent.com","@LauraLiterary","(555) 123-4567","www.laurasmithagent.com","Specializes in Sci-Fi and Fantasy",ST001,ST003,2024-01-05
+AG002,"James Doe","222 Book St, Novelville, NV","james@doeagency.net","@JamesDoeAgent","(555) 987-6543","www.doeagency.net","Interested in Mystery and Crime",ST002,ST008,2024-01-10
+AG003,"Emma Brown","333 Story Rd, Tale Town, TT","emma@browntalent.com","@EmmaBrownTalent","(555) 567-8901","www.browntalent.com","Seeks Historical Fiction",ST005,2024-01-15
+AG004,"Alex Johnson","444 Fiction Ave, Writeville, WV","alex@johnsonliterary.com","@AlexJohnsonLit","(555) 234-5678","www.johnsonliterary.com","Focuses on Young Adult",ST004,2024-01-20
+AG005,"Sam White","555 Novel Way, Chapterville, CV","sam@whitelit.com","@SamWhiteLit","(555) 345-6789","www.whitelit.com","Prefers Horror and Thriller",ST004,ST010,2024-01-25
+AG006,"Taylor Green","666 Plot St, Plotville, PV","taylor@greenagency.org","@TaylorGreenAgent","(555) 456-7890","www.greenagency.org","Interested in Literary Fiction",ST012,2024-02-01
+AG007,"Jamie Lee","777 Character Rd, Charactertown, CT","jamie@leeliterary.com","@JamieLeeLit","(555) 678-9012","www.leeliterary.com","Looking for Diverse Voices",ST009,2024-02-05
+AG008,"Robin Blue","888 Genre St, Genretown, GT","robin@blueagency.net","@RobinBlueAgent","(555) 789-0123","www.blueagency.net","Sci-Fi with a twist",ST003,2024-02-10
+AG009,"Casey Gray","999 Adventure Blvd, Adventure City, AC","casey@graylit.com","@CaseyGrayLit","(555) 890-1234","www.graylit.com","Adventures and Action",ST011,2024-02-15
+AG010,"Jordan Black","1111 Plot Twist Ave, Surprise City, SC","jordan@blackliterary.com","@JordanBlackLit","(555) 012-3456","www.blackliterary.com","Loves plot twists",ST006,2024-02-20
+AG011,"Morgan Purple","2222 Fantasy Lane, Dreamworld, DW","morgan@purpleagency.org","@MorganPurpleLit","(555) 123-4567","www.purpleagency.org","Fantasy with deep world-building",ST001,ST007,2024-02-25
+AG012,"Riley Gold","3333 Narrative St, Storyville, SV","riley@goldliterary.com","@RileyGoldAgent","(555) 234-5678","www.goldliterary.com","Interested in all genres",ST009,ST012,

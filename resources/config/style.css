@@ -1,0 +1,182 @@
+body {
+    background-color: #fefefe;
+    color: #333;
+    margin: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #fbf3c9;
+    color: #6b3b22;
+    font-family: "Cinzel Decorative", cursive;
+    cursor: pointer;
+}
+th.sorted-asc,
+th.sorted-desc {
+    background-color: #cd965d !important;
+}
+th::after {
+    content: "↑↓";
+    font-size: 16px;
+    margin-left: 5px;
+}
+th.sorted-asc::after {
+    content: "↓";
+    font-size: 20px;
+    font-weight: bold;
+    color: #6b3b22;
+}
+th.sorted-desc::after {
+    content: "↑";
+    font-size: 20px;
+    font-weight: bold;
+    color: #6b3b22;
+}
+.edit-input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 4px;
+    display: none;
+}
+.action-cell {
+    white-space: nowrap;
+    width: 100px;
+}
+.action-cell button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+}
+.action-cell button img {
+    width: 16px;
+    height: 16px;
+}
+.editing .cell-content {
+    display: none;
+}
+.editing .edit-input {
+    display: block !important;
+}
+tr.editing .edit-btn {
+    display: none;
+}
+tr.editing .save-btn,
+tr.editing .cancel-btn {
+    display: inline-block !important;
+}
+tr.editing .delete-btn {
+    display: none;
+}
+#tabs {
+    margin-bottom: 10px;
+}
+.tab-button {
+    background: #fbf3c9;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    cursor: pointer;
+    margin-right: 2px;
+    color: #6b3b22;
+    font-family: "Cinzel Decorative", cursive;
+}
+.tab-button.active {
+    background: #ddd;
+    font-weight: 700;
+}
+.table-container {
+    display: none;
+}
+.calendar-btn {
+    cursor: pointer;
+    margin-left: 10px;
+}
+#calendar-popup {
+    display: none;
+    position: absolute;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 10px;
+    z-index: 1000;
+}
+table tbody .data-cell .calendar-btn {
+    display: none;
+}
+table tbody tr.editing .data-cell .calendar-btn {
+    display: inline-block;
+}
+#menu-bar {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    gap: 10px;
+}
+.menu-button {
+    background: #fbf3c9;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #6b3b22;
+}
+.menu-button img {
+    width: 16px;
+    height: 16px;
+}
+.overlay,
+.popover {
+    display: none;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+}
+.popover {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    height: 80%;
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    z-index: 1001;
+}
+.popover-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #fbf3c9;
+    color: #6b3b22;
+}
+.popover-header img {
+    max-height: 50px;
+}
+.close-button {
+    cursor: pointer;
+    font-size: 24px;
+    padding: 5px;
+    color: #6b3b22;
+}

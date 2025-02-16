@@ -1,0 +1,5 @@
+AgentID,AgentName,Address,Email,XAccount,Phone,Website,Notes,InterestedInStoryID,DateRecordModified
+AG001,"Laura Smith","101 Agent Lane, Lit City, LC","laura@literaryagent.com","@LauraLiterary","(555) 123-4567","www.laurasmithagent.com","Specializes in Sci-Fi and Fantasy",ST001,ST003,2024-01-05
+AG002,"James Doe","222 Book St, Novelville, NV","james@doeagency.net","@JamesDoeAgent","(555) 987-6543","www.doeagency.net","Interested in Mystery and Crime",ST002,ST008,2024-01-10
+AG003,"Emma Brown","333 Story Rd, Tale Town, TT","emma@browntalent.com","@EmmaBrownTalent","(555) 567-8901","www.browntalent.com","Seeks Historical Fiction",ST005,2024-01-15
+AG004,"Alex Johnson","444 Fiction Ave, Writeville, WV","alex@johnsonliterary.com","@AlexJohnsonLit","(555) 234-5678","www.johnsonliterary.com","Focuses on Young Adult",ST004,2024-01-20

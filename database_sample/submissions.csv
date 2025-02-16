@@ -1,0 +1,13 @@
+SubmissionID,StoryID,PublisherID,SubmissionDate,Status,ResponseDate,Notes,DateRecordModified
+001,ST001,PB001,2024-01-01,Accepted,2024-01-15,First submission,2024-01-15
+002,ST002,PB002,2024-01-05,Rejected,2024-01-10,Rejected due to theme mismatch,2024-01-10
+003,ST003,PB003,2024-01-10,Pending,,Awaiting review,2024-01-10
+004,ST004,PB004,2024-01-15,Revisions Requested,2024-01-20,Minor revisions needed,2024-01-20
+005,ST005,PB005,2024-01-20,Accepted,2024-01-25,Quick acceptance,2024-01-25
+006,ST006,PB006,2024-01-25,Rejected,2024-02-01,Not suitable for current issue,2024-02-01
+007,ST007,PB007,2024-02-01,Pending,,Under consideration,2024-02-01
+008,ST008,PB008,2024-02-05,Revisions Requested,2024-02-10,Major revisions requested,2024-02-10
+009,ST009,PB009,2024-02-10,Accepted,2024-02-15,Accepted after revisions,2024-02-15
+010,ST010,PB010,2024-02-15,Rejected,2024-02-20,Rejected after review,2024-02-20
+011,ST011,PB011,2024-02-20,Pending,,Awaiting editor's decision,2024-02-20
+012,ST012,PB012,2024-02-25,Revisions Requested,2024-03-01,Editorial feedback provided,2024-03-01
