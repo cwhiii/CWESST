@@ -1,5 +1,6 @@
 # CWESST Manager ("Quest Manager") 
-## The **C.W.** **E**pic **S**tory **S**ubmissions **T**racker.
+## The C.W. Epic Story Submissions Tracker.
+
 
 For tracking book &amp; short story submissions to various agents &amp; publishers. Track & record entries for: 
 - Publishers
